@@ -269,11 +269,11 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ Width ]*/
 .wsize1 {
-	width: 37%;
+	width: 42%;
 }
 
 .wsize2 {
-	width: 63%;
+	width: 58%;
 }
 
 .wsize3 {
@@ -292,7 +292,7 @@ Primary use:
 .bg-img1 {
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 
 /*//////////////////////////////////////////////////////////////////
